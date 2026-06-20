@@ -1,72 +1,359 @@
 [
     {
         "id": 1,
-        "anime": "0-saiji Start Dash Monogatari Season 2 - Ending 1",
-        "name": "\"Beyond the Trajectory\" by Chata",
-        "video": "https://eudist.animemusicquiz.com/5u2mhk.webm",
-        "mp3": null
+        "anime": "Pet - Opening 1",
+        "name": "\"Chou no Tobu Suisou\" by TK from Ling tosite sigure",
+        "video": "https://naedist.animemusicquiz.com/xp9bhw.webm",
+        "mp3": "https://naedist.animemusicquiz.com/78b9xw.mp3"
     },
     {
         "id": 2,
-        "anime": "1-punkan dake Furete mo Ii yo... Share House no Himitsu Rule. - Ending 1",
-        "name": "\"Session Sadame Night\" by Dai Takanashi",
-        "video": "https://eudist.animemusicquiz.com/f23gq2.webm",
-        "mp3": "https://eudist.animemusicquiz.com/ne5vos.mp3"
+        "anime": "Toaru Kagaku no Railgun T - Opening 1",
+        "name": "\"final phase\" by fripSide",
+        "video": "https://naedist.animemusicquiz.com/lkdytn.webm",
+        "mp3": "https://naedist.animemusicquiz.com/sjv4ux.mp3"
     },
     {
         "id": 3,
-        "anime": "A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu. - Ending 1",
-        "name": "\"Treasure Chest\" by Yuki Tanaka",
-        "video": "https://eudist.animemusicquiz.com/agsvoz.webm",
-        "mp3": "https://eudist.animemusicquiz.com/i3vp9q.mp3"
+        "anime": "Toaru Kagaku no Railgun T - Opening 2",
+        "name": "\"dual existence\" by fripSide",
+        "video": "https://naedist.animemusicquiz.com/9n3uws.webm",
+        "mp3": "https://naedist.animemusicquiz.com/6scr0x.mp3"
     },
     {
         "id": 4,
-        "anime": "Akuyaku Reijou Tensei Ojisan - Ending 1",
-        "name": "\"Matsuken Samba II\" by Kazuhiko Inoue, M・A・O",
-        "video": "https://eudist.animemusicquiz.com/e8q47f.webm",
-        "mp3": "https://eudist.animemusicquiz.com/dje0hr.mp3"
+        "anime": "Made in Abyss: Fukaki Tamashii no Reimei - Opening 1",
+        "name": "\"The Return of Made in Abyss\" by Kevin Penkin ft. Úyanga Bold",
+        "video": "https://naedist.animemusicquiz.com/ppq8u5yantvjazx1.webm",
+        "mp3": "https://naedist.animemusicquiz.com/pl7hmo.mp3"
     },
     {
         "id": 5,
-        "anime": "Amagami-san Chi no Enmusubi - Ending 2",
-        "name": "\"Kamisama no Iu Toori!\" by ≠ME",
-        "video": "https://eudist.animemusicquiz.com/p4etz1.webm",
-        "mp3": "https://eudist.animemusicquiz.com/wz8z3p.mp3"
+        "anime": "Infinite Dendrogram - Opening 1",
+        "name": "\"Unbreakable\" by Aoi Yuuki",
+        "video": "https://naedist.animemusicquiz.com/2ovk1k.webm",
+        "mp3": "https://naedist.animemusicquiz.com/wimafy.mp3"
     },
     {
         "id": 6,
-        "anime": "Ameku Takao no Suiri Karte - Ending 1",
-        "name": "\"will be fine\" by Gospellers feat. Anly",
-        "video": "https://eudist.animemusicquiz.com/0spf2m.webm",
-        "mp3": "https://eudist.animemusicquiz.com/iagxs7.mp3"
+        "anime": "Kuutei Dragons - Opening 1",
+        "name": "\"Gunjou\" by Yoh Kamiyama",
+        "video": "https://naedist.animemusicquiz.com/ysvycs.webm",
+        "mp3": "https://naedist.animemusicquiz.com/dqtxhn.mp3"
     },
     {
         "id": 7,
-        "anime": "Ao no Exorcist: Yosuga-hen - Ending 1",
-        "name": "\"Overlap\" by Shiyui",
-        "video": "https://eudist.animemusicquiz.com/3z1d8i.webm",
-        "mp3": "https://eudist.animemusicquiz.com/162vdv.mp3"
+        "anime": "Jibaku Shounen Hanako-kun - Opening 1",
+        "name": "\"No.7\" by Jibaku Shounen Band",
+        "video": "https://naedist.animemusicquiz.com/xnouq1.webm",
+        "mp3": "https://naedist.animemusicquiz.com/dl5z59.mp3"
     },
     {
         "id": 8,
-        "anime": "Ao no Hako - Ending 2",
-        "name": "\"Contrast\" by TOMOO",
-        "video": "https://eudist.animemusicquiz.com/qmcqk3.webm",
-        "mp3": "https://eudist.animemusicquiz.com/l2sgqo.mp3"
+        "anime": "Majutsushi Orphen Haguretabi - Opening 1",
+        "name": "\"Calling U\" by buzz★Vibes",
+        "video": "https://naedist.animemusicquiz.com/1v99z8.webm",
+        "mp3": "https://naedist.animemusicquiz.com/axzw35.mp3"
     },
     {
         "id": 9,
-        "anime": "Ao no Miburo - Ending 2",
-        "name": "\"Fragment\" by osage",
-        "video": "https://eudist.animemusicquiz.com/8b8iva.webm",
-        "mp3": "https://eudist.animemusicquiz.com/0yt4lm.mp3"
+        "anime": "Plunderer - Opening 1",
+        "name": "\"Plunderer\" by Miku Ito",
+        "video": "https://naedist.animemusicquiz.com/pldynz.webm",
+        "mp3": "https://naedist.animemusicquiz.com/y5q40o.mp3"
     },
     {
         "id": 10,
-        "anime": "Arafou Otoko no Isekai Tsuuhan - Ending 1",
-        "name": "\"Aicraft\" by Kiminone",
-        "video": "https://eudist.animemusicquiz.com/ohlrpc.webm",
-        "mp3": "https://eudist.animemusicquiz.com/74jbjn.mp3"
+        "anime": "Plunderer - Opening 2",
+        "name": "\"Kokou no Hikari Lonely dark\" by Miku Ito",
+        "video": "https://naedist.animemusicquiz.com/uaic4n.webm",
+        "mp3": "https://naedist.animemusicquiz.com/lp5r49.mp3"
+    },
+    {
+        "id": 11,
+        "anime": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden - Opening 1",
+        "name": "\"Sis puella magica!\" by Eri Itou",
+        "video": "https://naedist.animemusicquiz.com/kz8wqp.webm",
+        "mp3": "https://naedist.animemusicquiz.com/lavqhs.mp3"
+    },
+    {
+        "id": 12,
+        "anime": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden - Opening 2",
+        "name": "\"Gomakashi\" by TrySail",
+        "video": "https://naedist.animemusicquiz.com/rw1n5i.webm",
+        "mp3": "https://naedist.animemusicquiz.com/bmehw6.mp3"
+    },
+    {
+        "id": 13,
+        "anime": "number24 - Opening 1",
+        "name": "\"SET!\" by Masanori Kobayashi",
+        "video": "https://naedist.animemusicquiz.com/qkyw6d.webm",
+        "mp3": "https://naedist.animemusicquiz.com/hptctb.mp3"
+    },
+    {
+        "id": 14,
+        "anime": "Somali to Mori no Kamisama - Opening 1",
+        "name": "\"Arigatou wa Kocchi no Kotoba\" by Naotaro Moriyama",
+        "video": "https://naedist.animemusicquiz.com/066kvh.webm",
+        "mp3": "https://naedist.animemusicquiz.com/vwhngo.mp3"
+    },
+    {
+        "id": 15,
+        "anime": "Nekopara - Opening 1",
+        "name": "\"Shiny Happy Days\" by Yuki Yagi, Iori Saeki, Shiori Izawa, Miku Ito, Yuri Noguchi, Marin Mizutani",
+        "video": "https://naedist.animemusicquiz.com/uo7vd0.webm",
+        "mp3": "https://naedist.animemusicquiz.com/ltfhqm.mp3"
+    },
+    {
+        "id": 16,
+        "anime": "Kyokou Suiri - Opening 1",
+        "name": "\"Mononoke in the Fiction\" by Uso to Chameleon",
+        "video": "https://naedist.animemusicquiz.com/5kho3h.webm",
+        "mp3": "https://naedist.animemusicquiz.com/ezttt3.mp3"
+    },
+    {
+        "id": 17,
+        "anime": "Darwin's Game - Opening 1",
+        "name": "\"CHAIN\" by ASCA",
+        "video": "https://naedist.animemusicquiz.com/3lhp0c.webm",
+        "mp3": "https://naedist.animemusicquiz.com/bb9b0p.mp3"
+    },
+    {
+        "id": 18,
+        "anime": "Oshi ga Budoukan Ittekuretara Shinu - Opening 1",
+        "name": "\"Clover wish\" by ChamJam",
+        "video": "https://naedist.animemusicquiz.com/84e5pk.webm",
+        "mp3": "https://naedist.animemusicquiz.com/p4sswk.mp3"
+    },
+    {
+        "id": 19,
+        "anime": "Rikei ga Koi ni Ochita node Shoumei Shitemita. - Opening 1",
+        "name": "\"PARADOX\" by Sora Amamiya",
+        "video": "https://naedist.animemusicquiz.com/g6gbef.webm",
+        "mp3": "https://naedist.animemusicquiz.com/vn9nt1.mp3"
+    },
+    {
+        "id": 20,
+        "anime": "Tenchi Muyou! Ryououki - Opening 1",
+        "name": "\"Tenchi Muyou! Ryououki Theme\" by Kazuto Yoshida",
+        "video": "https://naedist.animemusicquiz.com/ss22hy.webm",
+        "mp3": "https://naedist.animemusicquiz.com/paaazf.mp3"
+    },
+    {
+        "id": 21,
+        "anime": "ARP Backstage Pass - Opening 1",
+        "name": "\"Burn it up\" by ARP",
+        "video": "https://naedist.animemusicquiz.com/0o9dum.webm",
+        "mp3": "https://naedist.animemusicquiz.com/as94gq.mp3"
+    },
+    {
+        "id": 22,
+        "anime": "22/7 - Opening 1",
+        "name": "\"Muzui\" by 22/7",
+        "video": "https://naedist.animemusicquiz.com/quo6eu.webm",
+        "mp3": "https://naedist.animemusicquiz.com/skoxpu.mp3"
+    },
+    {
+        "id": 23,
+        "anime": "Hatena Illusion - Opening 1",
+        "name": "\"Magic Words\" by Liyuu",
+        "video": "https://naedist.animemusicquiz.com/tzweol.webm",
+        "mp3": "https://naedist.animemusicquiz.com/h3z4zo.mp3"
+    },
+    {
+        "id": 24,
+        "anime": "Haikyuu!!: To the Top - Opening 1",
+        "name": "\"PHOENIX\" by BURNOUT SYNDROMES",
+        "video": "https://naedist.animemusicquiz.com/gjhspn.webm",
+        "mp3": "https://naedist.animemusicquiz.com/bo1zuu.mp3"
+    },
+    {
+        "id": 25,
+        "anime": "A3! Season Spring & Summer - Opening 1",
+        "name": "\"Act! Addict! Actors!\" by A3ders!",
+        "video": "https://naedist.animemusicquiz.com/6e8nbu.webm",
+        "mp3": "https://naedist.animemusicquiz.com/nc3kuf.mp3"
+    },
+    {
+        "id": 26,
+        "anime": "Housekishou Richard-shi no Nazo Kantei - Opening 1",
+        "name": "\"Houseki no Umareru Toki\" by Nagi Yanagi",
+        "video": "https://naedist.animemusicquiz.com/l5b3w2.webm",
+        "mp3": "https://naedist.animemusicquiz.com/i6208c.mp3"
+    },
+    {
+        "id": 27,
+        "anime": "Id: Invaded - Opening 1",
+        "name": "\"Mr. Fixer\" by Sou",
+        "video": "https://naedist.animemusicquiz.com/y859wo.webm",
+        "mp3": "https://naedist.animemusicquiz.com/aosjsm.mp3"
+    },
+    {
+        "id": 28,
+        "anime": "Runway de Waratte - Opening 1",
+        "name": "\"LION\" by Ami Sakaguchi",
+        "video": "https://naedist.animemusicquiz.com/7r9x6x.webm",
+        "mp3": "https://naedist.animemusicquiz.com/dz4i4b.mp3"
+    },
+    {
+        "id": 29,
+        "anime": "Oda Shinamon Nobunaga - Opening 1",
+        "name": "\"Sunny Sunny Girl◎\" by Akane Kumada",
+        "video": "https://naedist.animemusicquiz.com/62kipr.webm",
+        "mp3": "https://naedist.animemusicquiz.com/cfn7x6.mp3"
+    },
+    {
+        "id": 30,
+        "anime": "Boku no Tonari ni Ankoku Hakaishin ga Imasu. - Opening 1",
+        "name": "\"Take mo' Chance\" by all at once",
+        "video": "https://naedist.animemusicquiz.com/wyqi8h.webm",
+        "mp3": "https://naedist.animemusicquiz.com/7i17ye.mp3"
+    },
+    {
+        "id": 31,
+        "anime": "Isekai Quartet 2 - Opening 1",
+        "name": "\"Isekai Showtime\" by Satoshi Hino, Jun Fukushima, Yuusuke Kobayashi, Aoi Yuuki",
+        "video": "https://naedist.animemusicquiz.com/fugt3h.webm",
+        "mp3": "https://naedist.animemusicquiz.com/rydfz0.mp3"
+    },
+    {
+        "id": 32,
+        "anime": "Eizouken ni wa Te o Dasu na! - Opening 1",
+        "name": "\"Easy Breezy\" by chelmico",
+        "video": "https://naedist.animemusicquiz.com/cz5gj5.webm",
+        "mp3": "https://naedist.animemusicquiz.com/0i4m3e.mp3"
+    },
+    {
+        "id": 33,
+        "anime": "Dorohedoro - Opening 1",
+        "name": "\"Welcome to Chaos\" by (K)NoW_NAME:Ayaka Tachibana",
+        "video": "https://naedist.animemusicquiz.com/eqzpzb.webm",
+        "mp3": "https://naedist.animemusicquiz.com/3ibzo1.mp3"
+    },
+    {
+        "id": 34,
+        "anime": "Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu. - Opening 1",
+        "name": "\"Kyuukyoku Unbalance!\" by Junjou no Afilia",
+        "video": "https://naedist.animemusicquiz.com/umayyq.webm",
+        "mp3": "https://naedist.animemusicquiz.com/mx468k.mp3"
+    },
+    {
+        "id": 35,
+        "anime": "Gekijouban Shirobako - Opening 1",
+        "name": "\"Shikatanai no de Yareyare\" by Shito from ReReGRAPHICS",
+        "video": "https://naedist.animemusicquiz.com/qn4ts1.webm",
+        "mp3": "https://naedist.animemusicquiz.com/u3xo19.mp3"
+    },
+    {
+        "id": 36,
+        "anime": "Koi Suru Asteroid - Opening 1",
+        "name": "\"Aruite Ikou!\" by Nao Touyama",
+        "video": "https://naedist.animemusicquiz.com/1ybe3q.webm",
+        "mp3": "https://naedist.animemusicquiz.com/nqhb38.mp3"
+    },
+    {
+        "id": 37,
+        "anime": "Mushikago no Cagaster - Opening 1",
+        "name": "\"Be ZERO\" by Hilcrhyme",
+        "video": "https://naedist.animemusicquiz.com/dlzr2m.webm",
+        "mp3": "https://naedist.animemusicquiz.com/qjkwoe.mp3"
+    },
+    {
+        "id": 38,
+        "anime": "Ishuzoku Reviewers - Opening 1",
+        "name": "\"Ikouze☆Paradise\" by Junji Majima, Yuusuke Kobayashi, Miyu Tomita",
+        "video": "https://naedist.animemusicquiz.com/8d12lc.webm",
+        "mp3": "https://naedist.animemusicquiz.com/y1www2.mp3"
+    },
+    {
+        "id": 39,
+        "anime": "Digimon Adventure: Last Evolution Kizuna - Opening 1",
+        "name": "\"Butter-Fly\" by Kouji Wada",
+        "video": "https://naedist.animemusicquiz.com/iu4sx9.webm",
+        "mp3": "https://naedist.animemusicquiz.com/jdc9fw.mp3"
+    },
+    {
+        "id": 40,
+        "anime": "Murenase! Seton Gakuen - Opening 1",
+        "name": "\"Gakuen Soukan Zoo\" by Hina Kino, Haruki Ishiya, Yume Miyamoto, Misaki Kuno, Konomi Kohara, Sora Tokui",
+        "video": "https://naedist.animemusicquiz.com/5nv287.webm",
+        "mp3": "https://naedist.animemusicquiz.com/odn5bm.mp3"
+    },
+    {
+        "id": 41,
+        "anime": "Show By Rock!! Mashumairesh!! - Opening 1",
+        "name": "\"Masshiro Start Line\" by Hikaru Toono",
+        "video": "https://naedist.animemusicquiz.com/wxflg4.webm",
+        "mp3": "https://naedist.animemusicquiz.com/t1mu97.mp3"
+    },
+    {
+        "id": 42,
+        "anime": "Show By Rock!! Mashumairesh!! - Opening 2",
+        "name": "\"Hiromenes\" by Mashumairesh!!",
+        "video": "https://naedist.animemusicquiz.com/en9up2.webm",
+        "mp3": "https://naedist.animemusicquiz.com/f2f3y5.mp3"
+    },
+    {
+        "id": 43,
+        "anime": "BanG Dream! 3rd Season - Opening 1",
+        "name": "\"Initial\" by Poppin'Party",
+        "video": "https://naedist.animemusicquiz.com/mkvo0c.webm",
+        "mp3": "https://naedist.animemusicquiz.com/a67c2z.mp3"
+    },
+    {
+        "id": 44,
+        "anime": "Uchi Tama!?: Uchi no Tama Shirimasen ka? - Opening 1",
+        "name": "\"Friends\" by wacci",
+        "video": "https://naedist.animemusicquiz.com/3rvnsr.webm",
+        "mp3": "https://naedist.animemusicquiz.com/qmnf6p.mp3"
+    },
+    {
+        "id": 45,
+        "anime": "Kotodama Shoujo the Animation: Microphone Soul Spinners - Opening 1",
+        "name": "\"Microphone soul spinners!\" by Microphone soul spinners",
+        "video": "https://naedist.animemusicquiz.com/a2h1rj.webm",
+        "mp3": "https://naedist.animemusicquiz.com/1snlx9.mp3"
+    },
+    {
+        "id": 46,
+        "anime": "Healin' Good♡Precure - Opening 1",
+        "name": "\"Healin' Good♥Precure Touch!!\" by Rie Kitagawa",
+        "video": "https://naedist.animemusicquiz.com/blh7au.webm",
+        "mp3": "https://naedist.animemusicquiz.com/qq19za.mp3"
+    },
+    {
+        "id": 47,
+        "anime": "Psycho-Pass 3: First Inspector - Opening 1",
+        "name": "\"Synthetic Sympathy\" by Who-ya Extended",
+        "video": "https://naedist.animemusicquiz.com/udb4eb.webm",
+        "mp3": "https://naedist.animemusicquiz.com/6stoyp.mp3"
+    },
+    {
+        "id": 48,
+        "anime": "Zenonzard The Animation - Opening 1",
+        "name": "\"Da La Doubt\" by Nanase Matsuoka×KíRíSáMé UNDERTAKER",
+        "video": "https://naedist.animemusicquiz.com/dcwypq.webm",
+        "mp3": "https://naedist.animemusicquiz.com/3nl2sl.mp3"
+    },
+    {
+        "id": 49,
+        "anime": "Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka II - Opening 1",
+        "name": "\"HELLO to DREAM\" by Yuka Iguchi",
+        "video": "https://naedist.animemusicquiz.com/yx4gqh.webm",
+        "mp3": "https://naedist.animemusicquiz.com/hc8mi1.mp3"
+    },
+    {
+        "id": 50,
+        "anime": "Naka no Hito Genome [Jikkyouchuu] - Opening 1",
+        "name": "\"not GAME\" by Tasuku Hatanaka",
+        "video": "https://naedist.animemusicquiz.com/940u2o.webm",
+        "mp3": "https://naedist.animemusicquiz.com/4yzd13.mp3"
+    },
+    {
+        "id": 51,
+        "anime": "Ooya-san to Boku - Opening 1",
+        "name": "\"Ooya-san to Boku\" by Akiko Yano",
+        "video": "https://naedist.animemusicquiz.com/7gb8e3.webm",
+        "mp3": "https://naedist.animemusicquiz.com/xogsfy.mp3"
     }
 ]
