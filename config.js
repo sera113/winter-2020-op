@@ -1,5 +1,5 @@
 const config = {
-    localStoragePrefix: "party-rank-sorter",
-    title: "Party Rank Sorter",
+    localStoragePrefix: "winter-2020-op",
+    title: "winter-2020-op",
     description: "Party rank sorter for your custom list of songs."
 };
